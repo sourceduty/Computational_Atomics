@@ -1,4 +1,4 @@
-![Computational Atomics](https://github.com/user-attachments/assets/8a9900e4-f401-42ca-9990-1d3fd77418a4)
+![Computational Atomics](https://github.com/user-attachments/assets/cd429fb3-e978-4a57-b5ca-e67e5eb7bf31)
 
 > An original emerging scientific concept that combines the principles of atomic physics with advanced computational techniques.
 
