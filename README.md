@@ -61,6 +61,13 @@ One of the significant benefits of Computational Atomics is its potential impact
 In the field of chemistry, Computational Atomics holds promise for transforming our understanding of complex chemical reactions. By modeling the interactions between atoms and molecules, scientists can predict the outcomes of reactions with high accuracy, which is crucial for designing new drugs, catalysts, and sustainable chemical processes. These simulations allow for the exploration of reaction mechanisms at a molecular level, providing detailed insights that are often unattainable through traditional experimental approaches. This level of precision can lead to the discovery of more efficient pathways for chemical synthesis, ultimately benefiting industries such as pharmaceuticals, energy, and environmental science.
 
 #
+### Atomic Simulator Comparison
+
+Computational Atomics goes deeper into the theoretical and algorithmic aspects of atomic-level computations. This GPT is likely more focused on the development and optimization of computational techniques, including numerical methods and possibly quantum computing approaches. It might be intended for researchers and developers who are working on advancing the field of atomic computations, offering tools and libraries for conducting highly efficient and scalable simulations. The emphasis here is more on the computational science behind atomic simulations rather than the direct application of those simulations.
+
+The Atomic Simulator was developed for users interested in the practical application of simulating atomic structures and interactions. This GPT likely offers tools for inputting atomic configurations, running simulations, and visualizing the resulting atomic behavior. It is probably geared toward providing a user-friendly experience, with features that include predefined atomic models and the ability to customize simulations. 
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
@@ -68,6 +75,8 @@ In the field of chemistry, Computational Atomics holds promise for transforming 
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 <br>
 [Science](https://github.com/sourceduty/Science)
+<br>
+[Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
