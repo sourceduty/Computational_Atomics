@@ -45,7 +45,7 @@ Furthermore, this custom GPT aids in predicting the outcomes of complex chemical
 ...........................................................................................................
 
 ```
-Simulate a virtual environment computational atomics.
+Simulate a virtual environment for computational atomics.
 Develop a computational atomics model.
 Explain the framework used to define computational atomics.
 Print a list of computational atomics concepts.
