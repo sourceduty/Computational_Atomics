@@ -77,6 +77,8 @@ The Atomic Simulator was developed for users interested in the practical applica
 [Science](https://github.com/sourceduty/Science)
 <br>
 [Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
+<br>
+[Nuclear Chemistry Simulator](https://github.com/sourceduty/Nuclear_Chemistry_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
